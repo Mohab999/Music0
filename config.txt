@@ -1,4 +1,4 @@
-token=NTE1NDk0Njk3NDI3NTMzODI2.Dtl7pg.jUthz6rsO8-L6UAXGuEHqHqYQyc
+token=NTE1NTAxMTI2Mzk3ODUzNjk2.DtmBfw.t04HeTjlHeFIjMPwPDqC4Ud-Grc
 owner=346066545107009537 
 prefix=_
 game= Black Shop
